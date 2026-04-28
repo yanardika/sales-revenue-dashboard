@@ -9,7 +9,7 @@ An interactive **Power BI** dashboard analyzing global sales performance from 20
 
 ## Dashboard Preview
 
-![Revenue Report Dashboard](assets/dashboard-preview.png)
+![Revenue Report Dashboard](assets/dashboard-preview.pdf)
 
 ---
 
