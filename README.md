@@ -90,7 +90,7 @@ The dataset consists of **3 tables** inside `Sales_Data_Set.xlsx`, re-modeled fo
 
 ---
 
-## License
+## Disclaimer
 
 This project is built for portfolio and learning purposes. The dataset comes from one of the courses on Udemy.
 
